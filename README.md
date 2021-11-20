@@ -18,6 +18,7 @@ You can test the library on: https://web3modal.com/
 
 _Open a PR to add your project to the list!_
 
+- [DEMU](https://demu.app?npm=1)
 - [DAO Stack](https://alchemy.daostack.io/)
 - [Gnosis Safe](https://gnosis-safe.io/)
 - [3Box Hub](https://3box.io/hub/)
@@ -142,7 +143,7 @@ These are all the providers available with Web3Modal and how to configure their 
 - [DCent](./docs/providers/dcent.md)
 - [BurnerConnect](./docs/providers/burnerconnect.md)
 - [MEWConnect](./docs/providers/mewconnect.md)
-
+- [WalletLink](./docs/providers/walletlink.md)
 ## API
 
 ```typescript
